@@ -23,8 +23,10 @@ email: jianzhu.huai@whu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   As part of the ISPRS Congress 2016 at Toronto Canada, we host a thematic session 
   "resilient localization, mapping, and perception in adverse conditions using modern civilian radars".
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+url: "https://resilient-radar.github.io"
+baseurl: "/isprs2026"
+
 twitter_username: 
 github_username:  
 
