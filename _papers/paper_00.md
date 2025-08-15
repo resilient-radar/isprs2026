@@ -3,7 +3,7 @@
 sequence_id: 0
 
 # Paper title
-title: gradSLAM - Automagically differentiable SLAM
+title: Learning-based radar mapping
 
 # Paper authors
 authors: Krishna Murthy Jatavallabhula, Soroush Saryazdi, Ganesh Iyer, and Liam Paull

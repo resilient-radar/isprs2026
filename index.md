@@ -3,15 +3,29 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: Home
+title: 
 layout: home
 ---
 
-Hi there! Here's the lazy grad student's template for workshop webpages. I put this together to help automate mundane tasks with conventional workshop webpages - curating lists of speakers and/or organizers, schedules, and submitted/accepted papers. Here's a completely unrelated picture adapted from "Machine Learning & Artificial Intelligence" by `mikemacmarketing`; licensed under CC BY 2.0:
+Recent advances in 4D radar technology are unlocking new frontiers in resilient autonomous navigation, mapping, and environmental perception. Civilian radars—including automotive, wearable, and long-range systems—are increasingly leveraged in a wide spectrum of applications, ranging from self-driving vehicles and aerial drones to maritime platforms and search-and-rescue robotics. Their unique ability to function reliably in adverse weather, low-visibility, and cluttered environments makes radar sensing an essential technology for robust remote sensing and situational awareness.
 
 ![](assets/img/banner.jpg)
 
-The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
+This session seeks original research and real-world case studies that advance the state of the art in radar-based localization, mapping, and perception, with a special focus on resilient operation in challenging conditions. Topics of interest include, but are not limited to:
+
+* Multi-sensor calibration and fusion involving radar
+
+* Radar-based odometry and SLAM for robust navigation
+
+* Resilient perception, object detection, and tracking in dynamic and adverse environments
+
+* Life detection, remote monitoring, and activity recognition
+
+* Advances in signal processing, learning-based approaches, and hardware integration for resilience
+
+We particularly welcome submissions that present novel applications of 4D and imaging radars, demonstrate resilience in real-world scenarios, or critically assess the strengths and limitations of radar technologies under adverse conditions. The session aims to bring together researchers and practitioners from remote sensing, robotics, and geospatial sciences—advancing the ISPRS mission to foster innovation in photogrammetry, remote sensing, and spatial information science.
+
+<!-- The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
 1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.
 2. **Organizers**: Curate an organizer list from a set of markdown files, one per organizer. See files in the `_organizers` directory for examples.
 3. **Schedule**: Curate a [schedule like this](schedule) from a set of markdown files, one per event (talk, panel, break, etc.). See files in the `_schedule` directory for examples. Schedule items are sorted by a `sequence_id` attribute.
@@ -19,4 +33,4 @@ The theme is quite easy to use if you're familiar with Jekyll. The following col
 
 > **NOTE:** The best way to use these is to turn feature on or off by editing the `collections` attribute in `_config.yml`.
 
-If you experience issues or have cool features to add, feel free to [fork this template]().
+If you experience issues or have cool features to add, feel free to [fork this template](). -->
