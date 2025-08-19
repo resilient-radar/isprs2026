@@ -20,5 +20,6 @@ affil2_link: https://cde.nus.edu.sg/ece/
 
 affil3: ISPRS Work Group II/1
 affil3_link: https://www2.isprs.org/commissions/comm2/wg1/
+order: 1
 
 ---

@@ -92,3 +92,47 @@ span.award-other img {
   padding-top: 0;
   padding-bottom: 8px;
 }
+
+/* Organizers grid */
+.organizers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 28px 24px;
+  align-items: start;
+}
+
+/* Card */
+.organizer-card {
+  text-align: center;
+  padding: 12px 10px;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  background: #fff;
+}
+
+/* Photo */
+.organizer-photo-wrap {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.organizer-photo {
+  width: auto !important;
+  height: 140px !important;
+  object-fit: cover;
+  border-radius: 10px;
+  display: block;
+  border: 1px solid #e6e6e6;
+}
+
+/* Text */
+.organizer-name {
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.organizer-name a { text-decoration: underline; }
+.organizer-affil {
+  font-size: 0.95rem;
+  color: #555;
+}
