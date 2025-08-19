@@ -1,6 +1,6 @@
 ---
 # Name of the organizer
-name: Organizer Jianzhu Huai
+name: Jianzhu Huai
 
 # Link to the organizer's webpage
 webpage: https://jianzhuhuai.com
@@ -11,7 +11,7 @@ affil: Wuhan University
 affil_link: http://www.lmars.whu.edu.cn/en
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: jane.jpg
+img: huai.jpg
 
 # Secondary affiliation
 affil2: National University of Singapore
