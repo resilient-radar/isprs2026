@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-Here's how you can contact us ...
+Please email the session organizers at jianzhu.huai at whu.edu.cn.
