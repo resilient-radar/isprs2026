@@ -17,6 +17,9 @@ img: jane.jpg
 affil2: BuzzFizz Corp
 # Link to the speaker's secondary affiliation 
 affil2_link: https://buzzfizz.corp
+
+order: 1
+title: ""
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
