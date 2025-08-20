@@ -22,7 +22,7 @@ title: Resilient Radar Session
 email: jianzhu.huai@whu.edu.cn
 
 description: >- # this means to ignore newlines until "baseurl:"
-  ISPRS Congress 2026 Thematic Session on Resilient Radar Sensing at Toronto Canada
+  ISPRS Congress 2026 Thematic Session on Resilient Radar Sensing
 
 url: "https://resilient-radar.github.io"
 baseurl: "/isprs2026"
@@ -42,6 +42,7 @@ header_pages:
 - speakers.md
 - organizers.md
 - callforpapers.md
+- dates.md
 - schedule.md
 - papers.md
 - contactus.md

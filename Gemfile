@@ -3,6 +3,7 @@ source "https://rubygems.org"
 # Core
 gem "jekyll", "~> 4.2"
 gem "webrick"            # needed for `jekyll serve` on Ruby 3.x
+gem "logger"
 
 # Plugins (keep it light)
 group :jekyll_plugins do
