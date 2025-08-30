@@ -24,42 +24,13 @@ According to the main program [call for abstracts](https://www.isprs2026toronto.
 > final revised version of the extended abstract; at least one author must be registered (full fee or reduced fee) by the deadline."
 
 
-## Full Papers
-
-**[Submission portal](https://www.isprs2026toronto.com/submission-guidelines)**
-
-**Submission deadline: Nov 3 3025**
-
-According to the main program [call for abstracts](https://www.isprs2026toronto.com/submission-guidelines) and the 
-[ISPRS Announcement](https://www.icsevents.com/wp-content/uploads/2025/04/ISPRS2026_2ndAnnouncement-Final.pdf)
-> A full paper of **6-8** pages in English, including figures, tables, and references, for double-blind peer review. 
-> The submission should be **anonymized**. 
-> Full papers should be prepared following the [ISPRS Guidelines](https://www.isprs.org/documents/orangebook/app5.aspx) for authors preparing a full paper.
-> 
-> Authors of accepted full papers will be asked to submit a final paper that will be published in either the ISPRS Archives or the
-> ISPRS Annals, depending on the outcome of the review process.
-> Authors of accepted papers are expected to register for the Congress and attend to give
-> their presentation. The papers of authors who fail to present their work at the Congress may
-> be removed from the Annals or Archives.
-
-## ISPRS Archives and Annals
-
-According to the [ISPRS Announcement](https://www.icsevents.com/wp-content/uploads/2025/04/ISPRS2026_2ndAnnouncement-Final.pdf)
-> The ISPRS Archives and the ISPRS Annals are listed in the **ISI Conference Proceedings Citation Index** (CPCI) of the Web of Science,
-> **SCOPUS**, the **E/I Compendex**, and the Directory of Open Access Journals (DOAJ).
->
-> The publication costs for each ISPRS Archives volume and each ISPRS Annals volume are covered by the Congress.
-> Therefore, authors do not have to pay article processing charges.
-> The ISPRS Archives and the ISPRS Annals are open access publications, 
-> they are published under the Creative Common Attribution 3.0 (4.0 since June 2017) License. 
-
 ## Review Process
 
 All paper submissions to an Thematic Session will be subjected to the Congress deadlines and the ISPRS review process.
 Details of the review process is given in the [ISPRS Announcement](https://www.icsevents.com/wp-content/uploads/2025/04/ISPRS2026_2ndAnnouncement-Final.pdf)
 The below is an excerpt from that document.
 
-> Abstracts and full-length papers submitted to the Congress will be subjected to the
+> (Extended) abstracts and full-length papers submitted to the Congress will be subjected to the
 > ISPRS review process, a summary of which is provided herein. Authors should consult the
 > following publication for complete details: [isprs-annals.copernicus.org/articles/IV5/53/2018/](https://isprs-annals.copernicus.org/articles/IV-5/53/2018/).
 > 
