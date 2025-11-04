@@ -5,7 +5,7 @@ affil: University of Toronto
 webpage: https://www.linkedin.com/in/lisusdaniil/?originalSubdomain=ca
 affil_link: http://asrl.utias.utoronto.ca/
 img: lisus.jpg
-title: "Beyond the peaks: Leveraging the entire imaging radar return signal for robust autonomous vehicle localization"
+title: ""
 ---
 
 Dr Daniil Lisus is a graduating PhD candidate at the University of Toronto.

@@ -8,7 +8,7 @@ permalink: /callforpapers/
 
 **[Submission portal](https://www.isprs2026toronto.com/submission-guidelines)**
 
-**Submission deadline: Nov 3 2025**
+**Submission deadline: 17th Nov 2025, 11:59:59pm EST**
 
 According to the main program [call for abstracts](https://www.isprs2026toronto.com/submission-guidelines) and the 
 [ISPRS Announcement](https://www.icsevents.com/wp-content/uploads/2025/04/ISPRS2026_2ndAnnouncement-Final.pdf)

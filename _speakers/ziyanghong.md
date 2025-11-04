@@ -15,7 +15,7 @@ img: hong.png
 
 
 order: 1
-title: "Are We Ready for 4D Radar to Replace 2D Radar?"
+title: ""
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
