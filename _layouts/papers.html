@@ -10,7 +10,11 @@ layout: default
 
   <div class = "post-content">
 	  <table>
-	  	{% for paper in site.papers %}
+		{% assign with_order = site.papers | where_exp: "p", "p.order" | sort: "order" %}
+		{% assign no_order  = site.papers | where_exp: "p", "p.order == nil" %}
+		{% assign papers_sorted = with_order | concat: no_order %}
+
+	  	{% for paper in papers_sorted %}
 		    <tr>
 		        <td>
 		            <div class="people-name text-center">

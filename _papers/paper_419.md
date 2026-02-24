@@ -1,6 +1,6 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 1
+order: 1
 
 # Paper title
 title: IMU Propagation as Preintegration

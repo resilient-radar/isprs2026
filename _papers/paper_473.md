@@ -1,5 +1,5 @@
 ---
-sequence_id: 3
+order: 3
 title: Bundle Adjustment for 4D Radar Mapping
 authors: Jianzhu Huai, Yiwen Chen, Binliang Wang
 affil: Wuhan University
