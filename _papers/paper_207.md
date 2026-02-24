@@ -3,10 +3,10 @@
 sequence_id: 0
 
 # Paper title
-title: Radar-Centric Sensor Fusion for Robust Indoor SLAM in Complex Environments
+title: Integrated Tracking-Free Automatic Target Recognition (ATR) Radar Methodology for Real-Time Low-Altitude Airspace Management in China's Low-Altitude Economy
 
 # Paper authors
-authors: Binliang Wang
+authors: Jiangkun Gong
 
 # Author affiliations
 affil: Wuhan University
@@ -16,5 +16,5 @@ affil: Wuhan University
 # pdf: 00.pdf
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 00.jpg
+img: 207.jpg
 ---
