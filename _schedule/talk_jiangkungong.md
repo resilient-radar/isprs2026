@@ -1,5 +1,5 @@
 ---
-order: 4
+sequence_id: 1
 speaker: Dr Jiangkun Gong
 affil: Wuhan University
 webpage: https://www.linkedin.com/in/jiangkun-jason-gong-486498148/
@@ -7,7 +7,7 @@ affil_link: https://liesmars.whu.edu.cn/
 img: gong.jpg
 title: "Introduction to radar Automatic Target Recognition for Advancing the Low-Altitude Economy(LAE) and Urban Air Mobility(UAM)"
 
-time: 1045 - 1115
+time: 1202 - 1209
 ---
 
 

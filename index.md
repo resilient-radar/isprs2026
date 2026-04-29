@@ -8,9 +8,9 @@ layout: home
 ---
 
 <div style="text-align:center; font-size:3.0em; font-weight:600;">
-Resilient localization, mapping, and perception 
+ThS10: Resilient localization, mapping, and  
 <br>
-using civilian radars
+perception using civilian radars
 </div>
 
 <div style="text-align:center; font-size:1.25em; font-weight:600;">
@@ -19,10 +19,10 @@ using civilian radars
   </a>
 <br>
 in conjunction with the 47th Canadian Symposium on Remote Sensing
-</div>  
+</div>
 
 <div style="text-align:center; font-size:1.25em; margin-top:0.5em;">
-<strong>📍 Toronto, Canada &nbsp; | &nbsp; 📅 6 July 2026 </strong>
+<strong>📍 716B, Metro Toronto Convention Centre - South Building, Toronto, Canada &nbsp; | &nbsp; 📅 5 July 2026 12:00 pm - 1:20 pm Toronto, 6 July 2026 12:00 am - 1:20 am Beijing  </strong>
 </div>
 
 Recent advances in 4D radar technology are unlocking new frontiers in resilient autonomous navigation, mapping, and environmental perception. Civilian radars—including automotive, wearable, and long-range systems—are increasingly leveraged in a wide spectrum of applications, ranging from self-driving vehicles and aerial drones to maritime platforms and search-and-rescue robotics. Their unique ability to function reliably in adverse weather, low-visibility, and cluttered environments makes radar sensing an essential technology for robust remote sensing and situational awareness.
@@ -44,7 +44,8 @@ This session seeks original research and real-world case studies that advance th
 We particularly welcome submissions that present novel applications of 4D and imaging radars, demonstrate resilience in real-world scenarios, or critically assess the strengths and limitations of radar technologies under adverse conditions. The session aims to bring together researchers and practitioners from remote sensing, robotics, and geospatial sciences—advancing the ISPRS mission to foster innovation in photogrammetry, remote sensing, and spatial information science.
 
 For more info about the thematic sessions of the ISPRS congress,
-please refer to [the official list of thematic sessions](https://www.isprs2026toronto.com/thematic-sessions).
+please refer to [the official list of thematic sessions](https://www.isprs2026toronto.com/thematic-sessions)
+and the [program time table](https://eb7d4a2d-c3e9-4838-9755-0a285a29ad32.filesusr.com/ugd/4a7c8c_711d64517791406fbb527f86188fd823.pdf).
 
 
 <!-- The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:

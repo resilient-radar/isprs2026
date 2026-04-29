@@ -1,0 +1,9 @@
+---
+sequence_id: 8
+title: Radar-Centric Sensor Fusion for Robust Indoor SLAM in Complex Environments
+speaker: Binliang Wang
+affil: Wuhan University
+# pdf: 01.pdf
+img: 00.jpg
+time: 1251 - 1258
+---

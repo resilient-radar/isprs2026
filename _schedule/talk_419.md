@@ -1,12 +1,12 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-order: 0
+sequence_id: 3
 
 # Paper title
-title: Integrated Tracking-Free Automatic Target Recognition (ATR) Radar Methodology for Real-Time Low-Altitude Airspace Management in China's Low-Altitude Economy
+title: IMU Propagation as Preintegration
 
 # Paper authors
-authors: Jiangkun Gong
+speaker: Jianzhu Huai
 
 # Author affiliations
 affil: Wuhan University
@@ -16,7 +16,6 @@ affil: Wuhan University
 # pdf: 00.pdf
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 207.jpg
-
-time: 1202 - 1209
+img: 419.png
+time: 1216 - 1223
 ---
