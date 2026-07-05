@@ -9,6 +9,6 @@ affil:  Harbin Institute of Technology, Shenzhen
 affil_link: http://enissat.hitsz.edu.cn/index.jsp
 
 img: hu.png
-title: "Are We Ready for 4D Radar to Replace 2D Radar?"
+title: "LiDAR Teach, Radar Repeat: Robust Cross-Modal Navigation in Degenerate and Varying Environments"
 time: 1230 - 1240
 ---
