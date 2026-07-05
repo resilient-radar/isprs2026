@@ -1,6 +1,6 @@
 ---
 name: Daniil Lisus
-order: 3
+order: 2
 affil: University of Toronto
 webpage: https://www.linkedin.com/in/lisusdaniil/?originalSubdomain=ca
 affil_link: http://asrl.utias.utoronto.ca/

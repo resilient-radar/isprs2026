@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+*.gem -text
+*.gif -text
+*.jpg -text
+*.jpeg -text
+*.pdf -text
+*.png -text
+
+assets/pdf/papers/default.svg text eol=crlf
