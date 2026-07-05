@@ -17,4 +17,6 @@ affil: Wuhan University
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
 img: 419.png
+poster: 419_huai_propagation as preintegration poster.pdf
+paper_link: https://arxiv.org/abs/2605.28279
 ---

@@ -8,6 +8,7 @@ img: gong.jpg
 title: "Introduction to radar Automatic Target Recognition for Advancing the Low-Altitude Economy(LAE) and Urban Air Mobility(UAM)"
 
 time: 1240 - 1250
+link: https://1drv.ms/v/c/60208caf9367dbb1/IQAT1BNOKVDPSaT69mJdMZ_VAXoUtKLnxaolpH0Ni3tcCOs?e=tUQ2Hu
 ---
 
 

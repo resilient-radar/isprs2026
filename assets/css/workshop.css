@@ -93,6 +93,45 @@ span.award-other img {
   padding-bottom: 8px;
 }
 
+.schedule-material-link {
+  display: inline-flex;
+  min-width: 54px;
+  min-height: 44px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+.schedule-material-link .glyphicon {
+  font-size: 22px;
+}
+
+.paper-resource-links {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+}
+
+.paper-resource-link {
+  display: inline-flex;
+  min-width: 54px;
+  min-height: 44px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+.paper-resource-link .glyphicon {
+  font-size: 22px;
+}
+
 /* Organizers grid */
 .organizers-grid {
   display: grid;

@@ -5,4 +5,5 @@ authors: Jianzhu Huai, Yiwen Chen, Binliang Wang
 affil: Wuhan University
 # pdf: 01.pdf
 img: 473.png
+paper_link: https://arxiv.org/abs/2605.25041
 ---

@@ -22,7 +22,7 @@ in conjunction with the 47th Canadian Symposium on Remote Sensing
 </div>
 
 <div style="text-align:center; font-size:1.25em; margin-top:0.5em;">
-<strong>📍 716B, Metro Toronto Convention Centre - South Building, Toronto, Canada &nbsp; | &nbsp; 📅 5 July 2026 12:00 pm - 1:20 pm Toronto, 6 July 2026 12:00 am - 1:20 am Beijing  </strong>
+<strong>📍 715B, Metro Toronto Convention Centre - South Building, Toronto, Canada &nbsp; | &nbsp; 📅 5 July 2026 12:00 pm - 1:20 pm Toronto, 6 July 2026 12:00 am - 1:20 am Beijing  </strong>
 </div>
 
 Recent advances in 4D radar technology are unlocking new frontiers in resilient autonomous navigation, mapping, and environmental perception. Civilian radars—including automotive, wearable, and long-range systems—are increasingly leveraged in a wide spectrum of applications, ranging from self-driving vehicles and aerial drones to maritime platforms and search-and-rescue robotics. Their unique ability to function reliably in adverse weather, low-visibility, and cluttered environments makes radar sensing an essential technology for robust remote sensing and situational awareness.

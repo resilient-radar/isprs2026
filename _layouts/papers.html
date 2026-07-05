@@ -8,51 +8,77 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  <div class = "post-content">
-	  <table>
-		{% assign with_order = site.papers | where_exp: "p", "p.order" | sort: "order" %}
-		{% assign no_order  = site.papers | where_exp: "p", "p.order == nil" %}
-		{% assign papers_sorted = with_order | concat: no_order %}
+  <div class="post-content">
+    <table>
+      <thead>
+        <tr>
+          <th></th>
+          <th>Title</th>
+          <th>Authors</th>
+          <th>Resources</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% assign with_order = site.papers | where_exp: "p", "p.order" | sort: "order" %}
+        {% assign no_order  = site.papers | where_exp: "p", "p.order == nil" %}
+        {% assign papers_sorted = with_order | concat: no_order %}
 
-	  	{% for paper in papers_sorted %}
-		    <tr>
-		        <td>
-		            <div class="people-name text-center">
-		                <p align="center">
-		                	{% if paper.img %}
-		                    	<img class="paper-pic" src="{{ paper.img | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% else %}
-		                    	<img class="paper-pic" src="{{ 'default.svg' | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% endif %}
-		                </p>
-		            </div>
-		        </td>
-		        <td align="center">
-		        	<div class="people-name text-center">
-			        	<b>{{ paper.title }}</b>
-		        	</div>
-		        </td>
-		        <td>
-		            <div class="people-name text-center">
-		            	<!-- Author list -->
-		            	{% if paper.authors %}
-		            		{{ paper.authors }}
-		            	{% endif %}
-		                <!-- Author affiliations (if provided) -->
-		                {% if paper.affil %}
-		                	<br>
-		                	{{ paper.affil }}
-		                {% endif %}
-		                <!-- Link to PDF (if provided) -->
-		                {% if paper.pdf %}
-		                	<br>
-		                	<a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>
-		                {% endif %}
-		            </div>
-		        </td>
-		    </tr>
-	    {% endfor %}
-	  </table>
+        {% for paper in papers_sorted %}
+          <tr>
+            <td>
+              <div class="people-name text-center">
+                <p align="center">
+                  {% if paper.img %}
+                    <img class="paper-pic" src="{{ paper.img | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+                  {% else %}
+                    <img class="paper-pic" src="{{ 'default.svg' | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+                  {% endif %}
+                </p>
+              </div>
+            </td>
+            <td align="center">
+              <div class="people-name text-center">
+                <b>{{ paper.title }}</b>
+              </div>
+            </td>
+            <td>
+              <div class="people-name text-center">
+                <!-- Author list -->
+                {% if paper.authors %}
+                  {{ paper.authors }}
+                {% endif %}
+                <!-- Author affiliations (if provided) -->
+                {% if paper.affil %}
+                  <br>
+                  {{ paper.affil }}
+                {% endif %}
+              </div>
+            </td>
+            <td align="center">
+              <div class="paper-resource-links">
+                {% if paper.paper_link %}
+                  <a class="paper-resource-link" href="{{ paper.paper_link | escape }}" target="_blank" rel="noopener" title="Paper">
+                    <span class="glyphicon glyphicon-file" aria-hidden="true"></span>
+                    <span>Paper</span>
+                  </a>
+                {% elsif paper.pdf %}
+                  <a class="paper-resource-link" href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | relative_url | replace: ' ', '%20' }}" target="_blank" rel="noopener" title="Paper">
+                    <span class="glyphicon glyphicon-file" aria-hidden="true"></span>
+                    <span>Paper</span>
+                  </a>
+                {% endif %}
+                {% if paper.poster %}
+                  <a class="paper-resource-link" href="{{ paper.poster | prepend: '/assets/pdf/papers/' | relative_url | replace: ' ', '%20' }}" target="_blank" rel="noopener" title="Poster">
+                    <span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
+                    <span>Poster</span>
+                  </a>
+                {% endif %}
+              </div>
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
   </div>
 
 </article>
